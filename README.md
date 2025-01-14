@@ -22,4 +22,4 @@ Monthly and yearly sales trend visualization.
 Regional sales performance breakdown.
 Product-wise contribution to total sales.
 
-**Link to Dashboard**:https://public.tableau.com/app/profile/roshani.shiradwade/viz/Sales_17134709886990/SalesDashboard
+**Link to Dashboard**: Sales Dashboard
